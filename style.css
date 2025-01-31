@@ -1,7 +1,46 @@
-.header {
-  padding: 60px;
-  text-align: center;
+body {
+  background-color: #1a1a1a;
+}
+
+h1 {
+  font-family: 'Comic Sans MS';
+}
+
+header {
   background: #000000;
   color: white;
-  font-size: 30px;
+  font-size: 18px;
+  display: flex;
+}
+
+.headeritem {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+img.logo {
+  padding-left: 10px;
+  padding-top: 10px;
+  width: 60px;
+}
+
+p {
+  font-family: 'Comic Sans MS';
+}
+
+.normal {
+  color: lightgray;
+}
+
+.headerlink {
+  padding-top: 10px;
+  padding-left: 50px;
+  align-self: center;
+  color: white;
+}
+
+.link {
+  padding-left: 10px;
+  padding-top: 10px;
+  color: white;
 }
