@@ -30,6 +30,7 @@ p {
 
 .normal {
   color: lightgray;
+  font-family: 'Comic Sans MS';
 }
 
 .headerlink {
@@ -43,4 +44,17 @@ p {
   padding-left: 10px;
   padding-top: 10px;
   color: white;
+}
+
+.reflink {
+  padding-left: 10px;
+  padding-top: 10px;
+  font-family: 'Comic Sans MS';
+  color: #0000EE;
+}
+
+button {
+  padding-left: 10px;
+  padding-top: 10px;
+  background-color: #0001;
 }
